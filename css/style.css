@@ -3,3 +3,22 @@ img{
     width: 300px;
     border-radius: 20%;
 }
+
+body{
+    background-color: #ffe6a7;
+    color: #432818;
+}
+
+.links{
+    list-style: none;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
